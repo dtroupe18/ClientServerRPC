@@ -1,0 +1,6 @@
+﻿HOW-TO-RUN
+-Navigate to the correct directory in terminal
+-make
+-open the server executable it should report “Bind to port 8675 succeeded”
+-In the terminal window you ran make in type “./client localhost 8675”
+-Please note that localhost is the servername and 8675 is the port being used.
